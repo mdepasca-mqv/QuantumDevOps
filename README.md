@@ -1,5 +1,11 @@
 # Quantum Dev Ops Guide Book
 
+<p align="center">
+  <a href="https://qex-eu.github.io/QuantumDevOps/">
+<img style="min-width: 200px !important; width: 30%;" alt="Static Badge" src="https://img.shields.io/badge/documentation-black?style=for-the-badge&logo=gitbook&logoColor=white&link=https%3A%2F%2Fqex-eu.github.io%2FQuantumDevOps%2F">
+  </a>
+</p>
+
 To contribute to the book
 
 1. Clone the repo: `git clone https://github.com/QEX-EU/QuantumDevOps`
